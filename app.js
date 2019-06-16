@@ -121,4 +121,3 @@ const nicksSecondFunction = (a, b) => {
 // object
 // fancy big conditional
 // string manipulation
-//
